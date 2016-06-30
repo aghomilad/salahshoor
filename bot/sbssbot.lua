@@ -215,7 +215,7 @@ function create_config( )
     "banhammer",
     "stats",
     "anti_spam",
-    "owners",
+    "219356814",
     "arabic_lock",
     "set",
     "get",
@@ -343,9 +343,7 @@ _________________________________________
 _________________________________________
 _________________________________________
 _________________________________________
-ليست سودوها :@Cia_00_07
-@sina7sk
-@amirho3in
+ليست سودوها :@inshushinck
 ]]
   }
   serialize_to_file(config, './data/config.lua')
